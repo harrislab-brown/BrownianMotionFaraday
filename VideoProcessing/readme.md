@@ -1,0 +1,1 @@
+This folder contains scripts needed to both track the object and process the object's trajectory over time. We have also included an example trajectory that can be used with the two sets of code as an example.
